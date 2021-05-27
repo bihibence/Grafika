@@ -1,3 +1,5 @@
+#Grafika beadandó
+
 Féléves beadandó feladat
 
 A féléves beandanó feladatomban több objektum lesz látható a szoba kétoldalán elhelyezve. A mozgás a w-a-s-d gombokkal lehetséges majd. A space és a c gombokkal a vertikálisan fel és le mozgás valósul meg.
